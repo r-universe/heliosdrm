@@ -1,0 +1,10 @@
+[
+  {
+    "package": "phia",
+    "oncran": true
+  },
+  {
+    "package": "pwr",
+    "oncran": true
+  }
+]

@@ -1,10 +1,10 @@
 [
   {
-    "package": "pwr",
+    "package": "phia",
     "oncran": true
   },
   {
-    "package": "phia",
+    "package": "pwr",
     "oncran": true
   }
 ]
